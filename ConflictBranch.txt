@@ -1,0 +1,3 @@
+this is an example file created to check and remove the conflict of branches
+
+I changed this to conflict branch 
